@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Othello</string>
+    <item name="bun" type="id"></item>
+</resources>
